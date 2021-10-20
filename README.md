@@ -34,9 +34,9 @@
 
 
 
-| <a href="https://github.com/AlessandroPTSN/AlessandroPTSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroPTSN&theme=github_dark" alt="Alessandro's github stats" /></a> | <a href="https://github.com/AlessandroPTSN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroptsn&layout=compact&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- 
-
+| <a href="https://github.com/AlessandroPTSN/AlessandroPTSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroPTSN&theme=github_dark&show_icons=true" alt="Alessandro github status" /></a>  | <a href="https://github.com/AlessandroPTSN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroptsn&layout=compact&theme=github_dark&hide_border=true&hide=javascript,html" /></a>  |
+| ------------- | ------------- |
+<!--
 #### Top Repositories
 
 
@@ -46,7 +46,7 @@
 <a href="https://github.com/alessandroptsn/alessandroptsn/Classificando-estrelas-com-Kmeans">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alessandroptsn&repo=Classificando-estrelas-com-Kmeans&theme=github_dark" />
 </a>
-
+!-->
 <br />
 <br />
 
