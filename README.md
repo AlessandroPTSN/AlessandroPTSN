@@ -34,6 +34,25 @@
 
 
 
+| <a href="https://github.com/AlessandroPTSN/AlessandroPTSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroPTSN&theme=github_dark" alt="Alessandro's github stats" /></a> | <a href="https://github.com/AlessandroPTSN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroptsn&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- 
+
+#### Top Repositories
+
+
+<a href="https://github.com/AlessandroPTSN/Covid-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alessandroptsn&repo=Covid-19&theme=github_dark" />
+</a>
+<a href="https://github.com/alessandroptsn/alessandroptsn/Classificando-estrelas-com-Kmeans">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alessandroptsn&repo=Classificando-estrelas-com-Kmeans&theme=github_dark" />
+</a>
+
+<br />
+<br />
+
+
+
+
 
 [GitHub]: https://github.com/AlessandroPTSN
 [twitter]: https://twitter.com/Alessandroptsn
