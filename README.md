@@ -12,7 +12,7 @@
 
 [<img align="left" alt="AlessandroPTSN | GitHub" width="22px" src="https://icon-icons.com/downloadimage.php?id=123274&root=1996/PNG/512/&file=code_development_github_open_source_programming_source_icon_123274.png" />][github]
 [<img align="left" alt="Alessandroptsn | Twitter" width="22px" src="https://icon-icons.com/downloadimage.php?id=113802&root=1753/PNG/512/&file=iconfinder-social-media-applications-6twitter-4102580_113802.png" />][twitter]
-[<img align="left" alt="alessandro-pereira-torres-de-sá-neto-702758200 | LinkedIn" width="22px" src="https://icon-icons.com/downloadimage.php?id=16590&root=99/PNG/512/&file=linkedin_socialnetwork_17441.png" />][linkedin]
+[<img align="left" alt="alessandroptsn | LinkedIn" width="22px" src="https://icon-icons.com/downloadimage.php?id=16590&root=99/PNG/512/&file=linkedin_socialnetwork_17441.png" />][linkedin]
 [<img align="left" alt="alessandroptsn | Instagram" width="22px" src="https://icon-icons.com/downloadimage.php?id=113804&root=1753/PNG/512/&file=iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
 
 <br />
@@ -57,5 +57,5 @@
 [GitHub]: https://github.com/AlessandroPTSN
 [twitter]: https://twitter.com/Alessandroptsn
 [instagram]: https://instagram.com/alessandroptsn
-[linkedin]: https://linkedin.com/in/alessandro-pereira-torres-de-sá-neto-702758200
+[linkedin]: https://www.linkedin.com/in/alessandroptsn/
 [ico]: https://icon-icons.com
