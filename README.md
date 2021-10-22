@@ -51,8 +51,9 @@
 <br />
 
 
-
-
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=alessandroptsn&theme=react-dark">
+</p> 
 
 [GitHub]: https://github.com/AlessandroPTSN
 [twitter]: https://twitter.com/Alessandroptsn
