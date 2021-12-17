@@ -69,7 +69,7 @@
 !-->
 
 <details>
-<summary>📈 Minha atividade no Github Stats</summary>
+<summary>📈 Minha atividade no Github</summary>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=alessandroptsn&theme=react-dark">
 </p> 
