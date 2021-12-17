@@ -69,13 +69,13 @@
 !-->
 
 <details>
-<summary>📈 My Github Stats</summary>
+<summary>📈 Minha atividade no Github Stats</summary>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=alessandroptsn&theme=react-dark">
 </p> 
- 
+ <!--
  ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
-
+!-->
 </details>
 
 
