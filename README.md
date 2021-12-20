@@ -19,15 +19,15 @@
 
 ### Linguagens e ferramentas:
 
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=94807&root=1381/PNG/512/&file=rstudio_94807.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=17802&root=112/PNG/512/&file=python_18894.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=145720&root=2397/PNG/512/&file=microsoft_office_excel_logo_icon_145720.png" />][ico]
-[<img align="left"  width="26px" src= "https://icon-icons.com/downloadimage.php?id=145724&root=2397/PNG/512/&file=microsoft_office_word_logo_icon_145724.png" />][ico]
-[<img align="left"  width="26px" src= "https://icon-icons.com/downloadimage.php?id=145723&root=2397/PNG/512/&file=microsoft_power_point_office_logo_icon_145723.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=169967&root=2699/PNG/512/&file=markdown_here_logo_icon_169967.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=103702&root=1504/PNG/512/&file=textxtex_103702.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=103179&root=1495/PNG/512/&file=unityeditoricon_103179.png" />][ico]
-[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=143196&root=2351/PNG/512/&file=logo_github_icon_143196.png" />][ico]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=94807&root=1381/PNG/512/&file=rstudio_94807.png" />][R]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=17802&root=112/PNG/512/&file=python_18894.png" />][Python]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=145720&root=2397/PNG/512/&file=microsoft_office_excel_logo_icon_145720.png" />][Excel]
+[<img align="left"  width="26px" src= "https://icon-icons.com/downloadimage.php?id=145724&root=2397/PNG/512/&file=microsoft_office_word_logo_icon_145724.png" />][Word]
+[<img align="left"  width="26px" src= "https://icon-icons.com/downloadimage.php?id=145723&root=2397/PNG/512/&file=microsoft_power_point_office_logo_icon_145723.png" />][Power]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=169967&root=2699/PNG/512/&file=markdown_here_logo_icon_169967.png" />][Markdown]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=103702&root=1504/PNG/512/&file=textxtex_103702.png" />][Latex]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=103179&root=1495/PNG/512/&file=unityeditoricon_103179.png" />][Unity]
+[<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=143196&root=2351/PNG/512/&file=logo_github_icon_143196.png" />][Git_hub]
 
 <br />
 <br />
@@ -87,3 +87,12 @@
 [instagram]: https://instagram.com/alessandroptsn
 [linkedin]: https://www.linkedin.com/in/alessandroptsn/
 [ico]: https://icon-icons.com
+[R]: https://www.r-project.org
+[Python]: https://www.python.org
+[Excel]: https://www.microsoft.com/pt-br/microsoft-365/excel
+[Word]: https://www.microsoft.com/pt-br/microsoft-365/word
+[Power]: https://www.microsoft.com/pt-br/microsoft-365/powerpoint
+[Markdown]: https://www.markdownguide.org/getting-started/
+[Latex]: https://www.latex-project.org
+[Unity]: https://unity.com
+[Git_hub]: https://github.com
