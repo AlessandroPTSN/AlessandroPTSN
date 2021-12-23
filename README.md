@@ -37,10 +37,10 @@
 <br />
 
 
-<!--
+
 | <a href="https://github.com/AlessandroPTSN/AlessandroPTSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroPTSN&theme=github_dark&show_icons=true" alt="Alessandro github status" /></a>  | <a href="https://github.com/AlessandroPTSN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroptsn&layout=compact&theme=github_dark&hide_border=true&hide=javascript,html" /></a>  |
 | ------------- | ------------- |
-!-->
+
 
 
 
