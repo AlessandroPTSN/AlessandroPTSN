@@ -5,7 +5,7 @@
 - 🎮 Criador de jogos digitais pelo IMD
 - 🥉 Duas vezes medalhista de bronze na OBMEP
 - 🖥  Entusiasta em Big Data e Machine Learning
-- 📊 Criador de Dashboards em Shiny (para HTML/PDF)
+- 📊 Criador de Dashboards em Shiny
 - 💡    Sempre aprendendo coisas novas
 
 ### Pode me contactar clicando em:
