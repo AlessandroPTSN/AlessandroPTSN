@@ -1,7 +1,7 @@
 ### Olá, me chamo Alessandro Pereira Torres 👋
 
 
-- 📈 Graduando em estatística na UFRN
+- 📈 Graduado em estatística na UFRN
 - 🎮 Criador de jogos digitais pelo IMD
 - 🥉 Duas vezes medalhista de bronze na OBMEP
 - 🖥  Entusiasta em Big Data e Machine Learning
