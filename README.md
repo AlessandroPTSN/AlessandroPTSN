@@ -20,6 +20,7 @@
 
 
 
+
 <br />
 
 ### Linguagens e ferramentas:
@@ -51,7 +52,7 @@
 
 | Covid - 19     | Skils |  Classificando estrelas com Kmeans | Skils     | 
 |-----|---------------|------------|---------------|
-|  [<img src="https://user-images.githubusercontent.com/50224653/164088877-403428d1-bcb3-4473-b3fe-400b4601293d.png"/>][Covid]  |   <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
+|  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |   <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
 
