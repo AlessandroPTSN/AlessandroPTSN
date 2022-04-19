@@ -34,15 +34,32 @@
 [<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=143196&root=2351/PNG/512/&file=logo_github_icon_143196.png" />][Git_hub]
 
 <br />
-<br />
 
 
 
+<!--
 | <a href="https://github.com/AlessandroPTSN/AlessandroPTSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroPTSN&theme=github_dark&show_icons=true" alt="Alessandro github status" /></a>  | <a href="https://github.com/AlessandroPTSN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroptsn&layout=compact&theme=github_dark&hide_border=true&hide=javascript,html" /></a>  |
 | ------------- | ------------- |
+!-->
+### Principais repositórios:
+
+| Classificador de imagens     | Skils |  Como calcular a idade do UNIVERSO | Skils     | 
+|-----|---------------|------------|---------------|
+|  [<img src="https://user-images.githubusercontent.com/50224653/164081864-6100f83c-97d4-4abc-acab-4673f2250889.png"/>][Dog]  |   <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/164081866-4c3e7fc8-4bd7-4ad0-9308-ad4af87378ed.png"/>][Galaxy]  |  <li>Linear Regression</li> <li>Big Data</li> | 
+|<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
+
+| Covid - 19     | Skils |  Classificando estrelas com Kmeans | Skils     | 
+|-----|---------------|------------|---------------|
+|  [<img src="https://user-images.githubusercontent.com/50224653/164081868-81e7b3a4-9369-4b32-93c5-29cea115cf62.jpg"/>][Covid]  |   <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
+|<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
 
-
+<!--
+| Stage      | Time to complete  | Current Status | Finished                       | 
+|------------|---------------|----------------|------------------------------------|
+| [<img src="https://user-images.githubusercontent.com/50224653/164079605-ee218617-2dab-4e38-a39a-64d49d54ebc9.jpg" />][Dog] |   ![índice](https://user-images.githubusercontent.com/50224653/164079607-a95ffa69-a9b6-47f7-ac4c-8374007dfb23.jpg)    | Work in progress | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>
+| ![s](https://user-images.githubusercontent.com/50224653/164079610-8548e2d6-5c0b-495f-b578-1e7efa234160.jpg)    | ![d](https://user-images.githubusercontent.com/50224653/164079611-a482d12d-d4ee-46ca-b7fd-a99f2c729819.jpg) |  Work in progress | <ul><li>[x] done</li><li>[ ] tobedone</li></ul>
+!-->
 
 
 <!--
@@ -90,6 +107,11 @@
  <!--
  ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
 !-->
+
+[Dog]: https://github.com/AlessandroPTSN/Classificador-de-Imagens-R
+[Covid]: https://github.com/AlessandroPTSN/Covid-19
+[Star]: https://github.com/AlessandroPTSN/Classificando-estrelas-com-Kmeans
+[Galaxy]: https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO
 
 [GitHub]: https://github.com/AlessandroPTSN
 [twitter]: https://twitter.com/Alessandroptsn
