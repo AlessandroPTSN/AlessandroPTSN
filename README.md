@@ -113,10 +113,14 @@
  ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
 !-->
 
-[Dog]: https://github.com/AlessandroPTSN/Classificador-de-Imagens-R
-[Covid]: https://github.com/AlessandroPTSN/Covid-19
-[Star]: https://github.com/AlessandroPTSN/Classificando-estrelas-com-Kmeans
-[Galaxy]: https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO
+[Dog]: https://alessandroptsn.github.io/Classificador-de-Imagens-R/ 
+<!--https://github.com/AlessandroPTSN/Classificador-de-Imagens-R!-->
+[Covid]: https://alessandropereira.shinyapps.io/Covid_Update/ 
+<!--https://github.com/AlessandroPTSN/Covid-19!-->
+[Star]: https://alessandroptsn.github.io/Classificando-estrelas-com-Kmeans/ 
+<!--https://github.com/AlessandroPTSN/Classificando-estrelas-com-Kmeans!-->
+[Galaxy]: https://alessandroptsn.github.io/Como-calcular-a-idade-do-UNIVERSO/ 
+<!--https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO!-->
 
 [GitHub]: https://github.com/AlessandroPTSN
 [twitter]: https://twitter.com/Alessandroptsn
