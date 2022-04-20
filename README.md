@@ -50,12 +50,12 @@
 
 | Classificador de imagens     | Skils |  Como calcular a idade do UNIVERSO | Skils     | 
 |-----|---------------|------------|---------------|
-|  [<img src="https://user-images.githubusercontent.com/50224653/164081864-6100f83c-97d4-4abc-acab-4673f2250889.png"/>][Dog]  |   <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/164081866-4c3e7fc8-4bd7-4ad0-9308-ad4af87378ed.png"/>][Galaxy]  |  <li>Linear Regression</li> <li>Big Data</li> | 
+|  [<img src="https://user-images.githubusercontent.com/50224653/164081864-6100f83c-97d4-4abc-acab-4673f2250889.png"/>][Dog]  |  <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081866-4c3e7fc8-4bd7-4ad0-9308-ad4af87378ed.png"/>][Galaxy]  |  <li>Linear Regression</li> <li>Big Data</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
 | Coronavírus (COVID-19) | Skils |  Classificando estrelas com Kmeans | Skils     | 
 |-----|---------------|------------|---------------|
-|  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |   <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
+|  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |    <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
 
