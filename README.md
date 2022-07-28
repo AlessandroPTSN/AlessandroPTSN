@@ -53,7 +53,7 @@
 |  [<img src="https://user-images.githubusercontent.com/50224653/164081864-6100f83c-97d4-4abc-acab-4673f2250889.png"/>][Dog]  |  <li>Machine Learning</li> <li>Random Forest</li>   |  [<img src="https://user-images.githubusercontent.com/50224653/164081866-4c3e7fc8-4bd7-4ad0-9308-ad4af87378ed.png"/>][Galaxy]  |  <li>Linear Regression</li> <li>Big Data</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
-| Coronavírus (COVID-19) | Skils |  Classificando estrelas com Kmeans | Skils     | 
+| Coronavírus (COVID-19) | Skils |  Emotion Recognizer | Skils     | 
 |-----|---------------|------------|---------------|
 |  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |    <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/181633259-660f436c-e3fa-438a-8465-7d1c5e36e7d3.png"/>][Faces]  |  <li>Convolutional Neural Network</li> <li>API</li> <li>MLOps</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
