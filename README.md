@@ -55,11 +55,22 @@
 
 | Coronavírus (COVID-19) | Skils |  Classificando estrelas com Kmeans | Skils     | 
 |-----|---------------|------------|---------------|
+|  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |    <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/181633259-660f436c-e3fa-438a-8465-7d1c5e36e7d3.png"/>][Faces]  |  <li>Convolutional Neural Network</li> <li>API</li> <li>MLOps</li> | 
+|<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
+
+
+
+
+
+
+<!--
+| Coronavírus (COVID-19) | Skils |  Classificando estrelas com Kmeans | Skils     | 
+|-----|---------------|------------|---------------|
 |  [<img src="https://user-images.githubusercontent.com/50224653/164089404-65cfa51b-c38e-45c0-a602-a12c7d5c17dc.png"/>][Covid]  |    <li>Web Scraping</li> <li>Dashboard</li> <li>Data Visualization</li>  |  [<img src="https://user-images.githubusercontent.com/50224653/164081858-f0848f39-3b51-40c3-aaa8-8b10901a972f.jpg"/>][Star]  |  <li>Machine Learning</li> <li>K-Means</li> <li>Dimensionality Reduction</li> | 
 |<ul><li>-[x] R</li></ul>||<ul><li>-[x] Python</li></ul>||
 
 
-<!--
+
 | Stage      | Time to complete  | Current Status | Finished                       | 
 |------------|---------------|----------------|------------------------------------|
 | [<img src="https://user-images.githubusercontent.com/50224653/164079605-ee218617-2dab-4e38-a39a-64d49d54ebc9.jpg" />][Dog] |   ![índice](https://user-images.githubusercontent.com/50224653/164079607-a95ffa69-a9b6-47f7-ac4c-8374007dfb23.jpg)    | Work in progress | <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>
@@ -113,6 +124,7 @@
  ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
 !-->
 
+[Faces]: https://medium.com/@alessandro.pereira.700/deploy-neural-network-models-into-production-b8438843f224
 [Dog]: https://alessandroptsn.github.io/Classificador-de-Imagens-R/ 
 <!--https://github.com/AlessandroPTSN/Classificador-de-Imagens-R!-->
 [Covid]: https://alessandropereira.shinyapps.io/Covid_Update/ 
