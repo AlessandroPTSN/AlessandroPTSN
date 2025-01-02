@@ -13,7 +13,7 @@
 [<img align="left" alt="AlessandroPTSN | GitHub" width="22px" src="https://icon-icons.com/downloadimage.php?id=123274&root=1996/PNG/512/&file=code_development_github_open_source_programming_source_icon_123274.png" />][github]
 [<img align="left" alt="Alessandroptsn | Twitter" width="22px" src="https://icon-icons.com/downloadimage.php?id=113802&root=1753/PNG/512/&file=iconfinder-social-media-applications-6twitter-4102580_113802.png" />][twitter]
 [<img align="left" alt="alessandroptsn | LinkedIn" width="22px" src="https://icon-icons.com/downloadimage.php?id=16590&root=99/PNG/512/&file=linkedin_socialnetwork_17441.png" />][linkedin]
-[<img align="left" alt="alessandroptsn | Instagram" width="22px" src="https://icon-icons.com/downloadimage.php?id=113804&root=1753/PNG/512/&file=iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
+<!--[<img align="left" alt="alessandroptsn | Instagram" width="22px" src="https://icon-icons.com/downloadimage.php?id=113804&root=1753/PNG/512/&file=iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]!-->
 [<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=189534&root=3053/PNG/512/&file=yahoo_mail_macos_bigsur_icon_189534.png" />][Yahoo]
 [<img align="left"  width="26px" src="https://icon-icons.com/downloadimage.php?id=115624&root=1826/PNG/512/&file=4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />][Gmail]
 
