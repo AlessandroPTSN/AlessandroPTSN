@@ -25,9 +25,13 @@
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/cc6b00e0-a7bd-4dc0-988b-2940595be10e" />][Python]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/6db5611c-25d3-4f35-850a-c9f0d8f39da7" />][Excel]
 [<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/395b530e-ffad-4d72-be89-d5840c55b603" />][PowerBI]
-
-[<img align="left"  width="26px" src="hhttps://github.com/user-attachments/assets/3403ec2c-fa9b-4abd-9b60-838bed3b782d" />][Unity]
+[<img align="left"  width="26px" src="https://github.com/user-attachments/assets/832c71c0-0e4e-4d70-874d-b6a792affbd2" />][Unity]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/473a7db4-1945-435e-b81b-d28a602e249b" />][Git]
+[<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/02ee8a15-fedf-4d8f-8d8a-2cb1a17107e6" />][MySQL]
+[<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/0e9c24eb-98f8-4b46-932d-27141f280fdb" />][SQLServer]
+[<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/a9d2a326-bfd3-4f76-99e5-41fe6339ace7" />][PostgreSQL]
+
+
 
 <br />
 
@@ -75,6 +79,7 @@ pie title Most 2 Used Languages in Github
 <br />
 
 
+
 [Faces]: https://medium.com/@alessandro.pereira.700/deploy-neural-network-models-into-production-b8438843f224
 [Dog]: https://alessandroptsn.github.io/Classificador-de-Imagens-R/ 
 <!--https://github.com/AlessandroPTSN/Classificador-de-Imagens-R!-->
@@ -86,6 +91,9 @@ pie title Most 2 Used Languages in Github
 <!--https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO!-->
 
 
+[MySQL]: https://www.mysql.com/
+[SQLServer]: https://www.microsoft.com/pt-br/sql-server
+[PostgreSQL]: https://www.postgresql.org/
 [linkedin]: https://www.linkedin.com/in/alessandroptsn/
 [R]: https://www.r-project.org
 [Python]: https://www.python.org
