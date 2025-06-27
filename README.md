@@ -23,6 +23,7 @@
 
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/35a6dbbb-f1a7-49fd-8843-646726ee1dc1" />][R]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/cc6b00e0-a7bd-4dc0-988b-2940595be10e" />][Python]
+[<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/5f4f2a5f-facb-495d-8c3e-3889cc873fbe" />][SublimeText]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/6db5611c-25d3-4f35-850a-c9f0d8f39da7" />][Excel]
 [<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/395b530e-ffad-4d72-be89-d5840c55b603" />][PowerBI]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/832c71c0-0e4e-4d70-874d-b6a792affbd2" />][Unity]
@@ -90,7 +91,7 @@ pie title Most 2 Used Languages in Github
 [Galaxy]: https://alessandroptsn.github.io/Como-calcular-a-idade-do-UNIVERSO/ 
 <!--https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO!-->
 
-
+[SublimeText]: https://www.sublimetext.com/
 [MySQL]: https://www.mysql.com/
 [SQLServer]: https://www.microsoft.com/pt-br/sql-server
 [PostgreSQL]: https://www.postgresql.org/
