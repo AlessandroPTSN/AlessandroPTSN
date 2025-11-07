@@ -15,7 +15,7 @@
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/d1286731-1f8b-4298-adbb-3dfe2472a3ae" />][Gmail]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/c6d819c8-71ea-45d8-93a9-97322f829310" />][Medium]
 [<img align="left"  width="26px" src="https://github.com/user-attachments/assets/f9a3ea7a-82f6-439d-bb56-089078d2d277" />][HF]
-
+[<img align="left"  width="26px" src= "https://github.com/user-attachments/assets/5f4f2a5f-facb-495d-8c3e-3889cc873fbe" />][Sublime_Text]
 
 <br />
 
@@ -90,7 +90,7 @@ pie title Most 2 Used Languages in Github
 <!--https://github.com/AlessandroPTSN/Classificando-estrelas-com-Kmeans!-->
 [Galaxy]: https://alessandroptsn.github.io/Como-calcular-a-idade-do-UNIVERSO/ 
 <!--https://github.com/AlessandroPTSN/Como-calcular-a-idade-do-UNIVERSO!-->
-
+[Sublime_Text]:https://medium.com/p/712a4473a3d9
 [SublimeText]: https://www.sublimetext.com/
 [MySQL]: https://www.mysql.com/
 [SQLServer]: https://www.microsoft.com/pt-br/sql-server
