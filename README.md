@@ -49,6 +49,7 @@
 - [Como calcular a idade do UNIVERSO](https://alessandroptsn.github.io/Como-calcular-a-idade-do-UNIVERSO/)
 - [Dashboard COVID-19 Update](https://alessandropereira.shinyapps.io/Covid_Update/)
 - [Classificador de Imagens com Machine Learning em R](https://alessandroptsn.github.io/Classificador-de-Imagens-R/)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C3C3C&height=120&section=footer"/>
 
 <!--
 ```mermaid {code_block=true}
@@ -107,3 +108,4 @@ pie title Most 2 Used Languages in Github
 [Gmail]: mailto:alessandroptsn@gmail.com
 [Medium]: https://medium.com/@alessandro.pereira.700
 [HF]: https://huggingface.co/alessandroptsn
+
