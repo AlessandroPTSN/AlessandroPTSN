@@ -37,11 +37,12 @@
 <br />
 
 
+
 ### Principais projetos
 - [LLM Agents, Function Calling, Finetunning with FastAPI](https://medium.com/@alessandro.pereira.700/a-fast-tutorial-to-understand-agents-function-calling-finetunning-with-fastapi-2615d1f5ab00)
-- [Improve lightweight LLMs for specific tasks](https://medium.com/@alessandro.pereira.700/improve-lightweight-llms-for-specific-tasks-in-low-resource-applications-6a48e620ee9d)
+- [Improve lightweight LLMs for specific tasks](https://medium.com/@alessandro.pereira.700/improve-lightweight-llms-for-specific-tasks-in-low-resource-applications-6a48e620ee9d) ( [llama 3.2](https://alessandroptsn-llama3-2sql.hf.space/) / [qwen 2.5](https://alessandroptsn-qwen-2-5-sql.streamlit.app/) )
 - [API para reconhecimento de emoções usando redes neurais](https://medium.com/@alessandro.pereira.700/deploy-neural-network-models-into-production-b8438843f224)
-([Vídeo apresentação 4 minutos](https://www.loom.com/share/4e4edb7bf6ed4b8bbbbe38a6a9cedf8f))
+( [Vídeo apresentação 4 minutos](https://www.loom.com/share/4e4edb7bf6ed4b8bbbbe38a6a9cedf8f) )
 - [API para previsão de pagamentos de empréstimos usando ML](https://medium.com/@alessandro.pereira.700/from-classic-models-to-production-models-8d4ab873ac4d)
 - [Dashboard análise de dados SIRAG/COVID-19](https://alessandropereira.shinyapps.io/Painel-SIVEP-Gripe/)
 - [Dashboard análise comparativa entre ativos](https://alessandropereira.shinyapps.io/Ativo_Ibovespa/)
